@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-// import 'bootstrap/dist/css/bootstrap.min.css';
 
 import * as ImageService from '../service/image-service';
 import { SearchBar } from './searchbar/searchbar';
